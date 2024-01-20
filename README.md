@@ -4,13 +4,6 @@
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
